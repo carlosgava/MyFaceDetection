@@ -1,0 +1,1 @@
+/Users/gava/Projects/Android/MyFaceDetection/opencv/build/intermediates/cxx/RelWithDebInfo/454i465l/obj/x86

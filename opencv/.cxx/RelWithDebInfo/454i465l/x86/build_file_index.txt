@@ -1,0 +1,1 @@
+/Users/gava/Projects/Android/MyFaceDetection/opencv/libcxx_helper/CMakeLists.txt

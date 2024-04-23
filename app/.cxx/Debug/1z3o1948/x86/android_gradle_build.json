@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/gava/Projects/Android/MyFaceDetection/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/gava/Library/Android/sdk/cmake/3.6.4111459/bin/ninja",
+      "-C",
+      "/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/1z3o1948/x86",
+      "-t",
+      "clean"
+    ]
+  ],
+  "libraries": {
+    "facedetection": {
+      "artifactName": "facedetection",
+      "buildCommandComponents": [
+        "/Users/gava/Library/Android/sdk/cmake/3.6.4111459/bin/ninja",
+        "-C",
+        "/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/1z3o1948/x86",
+        "/Users/gava/Projects/Android/MyFaceDetection/app/build/intermediates/cxx/Debug/1z3o1948/obj/x86/libfacedetection.so"
+      ],
+      "abi": "x86",
+      "output": "/Users/gava/Projects/Android/MyFaceDetection/app/build/intermediates/cxx/Debug/1z3o1948/obj/x86/libfacedetection.so",
+      "runtimeFiles": []
+    }
+  }
+}

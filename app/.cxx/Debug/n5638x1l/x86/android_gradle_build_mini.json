@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Users/gava/Projects/Android/MyFaceDetection/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/usr/local/bin/ninja",
+      "-C",
+      "/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/n5638x1l/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/usr/local/bin/ninja",
+    "-C",
+    "/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/n5638x1l/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "facedetection::@6890427a1f51a3e7e1df": {
+      "artifactName": "facedetection",
+      "abi": "x86",
+      "output": "/Users/gava/Projects/Android/MyFaceDetection/app/build/intermediates/cxx/Debug/n5638x1l/obj/x86/libfacedetection.so",
+      "runtimeFiles": [
+        "/Users/gava/Downloads/OpenCV-android-sdk/sdk/native/libs/x86/libopencv_java4.so"
+      ]
+    }
+  }
+}

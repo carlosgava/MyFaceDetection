@@ -1,0 +1,3 @@
+/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/6siu2q2q/x86/CMakeFiles/facedetection.dir
+/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/6siu2q2q/x86/CMakeFiles/edit_cache.dir
+/Users/gava/Projects/Android/MyFaceDetection/app/.cxx/Debug/6siu2q2q/x86/CMakeFiles/rebuild_cache.dir

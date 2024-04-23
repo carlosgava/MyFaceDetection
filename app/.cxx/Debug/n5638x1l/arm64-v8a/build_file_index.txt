@@ -1,0 +1,1 @@
+/Users/gava/Projects/Android/MyFaceDetection/app/src/main/cpp/CMakeLists.txt

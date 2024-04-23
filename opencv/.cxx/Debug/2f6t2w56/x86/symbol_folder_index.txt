@@ -1,0 +1,1 @@
+/Users/gava/Projects/Android/MyFaceDetection/opencv/build/intermediates/cxx/Debug/2f6t2w56/obj/x86
